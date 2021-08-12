@@ -9,7 +9,7 @@ utilizando una dirección IP remota y un puerto IP remoto.
 
 ### Simulink 
 
-Utilizando el ambiente de **Simulink**, donde serán requeridos los siguientes bloques para lograr que un valor ( Sea número, Cadena) puedo ser enviado correctamente.
+Utilizando el ambiente de **Simulink**, donde serán requeridos los siguientes bloques para lograr que un valor ( Sea número, Cadena) pueda ser enviado correctamente.
 
 Bloques a utilizar:
 - Constant
