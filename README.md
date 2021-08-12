@@ -24,7 +24,7 @@ Esta configuración en Simulink, realiza la siguiente serie de instrucciones.
 
 - **Constant - To String** : Convierte la señal de entrada tipo Entero **( 1 )** a una señal tipo Cadena **( "1" )**. 
 - **To String - String To ASCII** : Convierte una señal tipo Cadena **( "1" )** hacia su valor ASCII correspondiente **( ASCII 49 )**.
-- **String To ASCII - Byte Data** :   Empaqueta los datos de entrada ASCII en un vector único de salido tipo uint8.
+- **String To ASCII - Byte Data** :   Empaqueta los datos de entrada ASCII en un vector único de salida tipo uint8.
 - **Byte Data - UDP Send** : Se envía el paquete UDP hacia una  red identificada por una dirección **( 127.0.0.1 )** y puerto IP **( 1234 )** 
 
 
